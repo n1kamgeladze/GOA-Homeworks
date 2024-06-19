@@ -1,0 +1,11 @@
+# get user input 
+num1 = int(input("enter integer:"))
+num2 = int(input("enter integer:"))
+num3 = int(input("enter integer:"))
+num4 = int(input("enter integer:"))
+num5 = int(input("enter integer:"))
+# make math operations
+print(num1 + num2) 
+print(num3 - num2)
+print(num4 * num5)
+print(num5 / num2)
